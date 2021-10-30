@@ -1,0 +1,22 @@
+* {
+  background: black;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+.time-left {
+  color: white;
+}
+
+.countdown-timer {
+  left: 50%;
+  top: 40%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  padding: 1.5rem 1.5rem 1.5rem 1.5rem;
+  font-size: 2rem;
+  width: 100%;
+}
